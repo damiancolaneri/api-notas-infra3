@@ -1,3 +1,3 @@
 module.exports = {
-    url: `mongodb://${MONGOUSER}:${MONGOPASSWORD}@${MONGO_URL}:${MONGOPORT}`
+    url: `${MONGO_URL}`
 }
