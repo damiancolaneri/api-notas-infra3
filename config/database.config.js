@@ -1,3 +1,3 @@
 module.exports = {
-    url: `mongodb://mongo:YqWooigalSQmeEsULB8B@containers-us-west-168.railway.app:6549`
+    url: `mongodb://mongo:KVk4FcrYTUoqFCCY9eCl@containers-us-west-128.railway.app:6555`
 }
